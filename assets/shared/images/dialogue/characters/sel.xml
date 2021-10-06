@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sel.png">
+<SubTexture name="sel Smile0000" x="0" y="0" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sel Grin0000" x="414" y="0" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sel Talk0000" x="0" y="414" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sel Uh0000" x="414" y="414" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sel Xd0000" x="0" y="828" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+</TextureAtlas>

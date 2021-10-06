@@ -1,0 +1,10 @@
+:ruv:default:You've pushed quite a lot of buttons while I was away, huh?
+:ruv:default:Well you really should've just ran away or joined the church while you could.
+:ruv:default:But you decided to pull a struggle. So here we are.
+:bf:beep:bop bop bee pa?!
+:ruv:talk:Name's Ruv by the way. But that is the last name you will probably be hearing after this.
+:ruv:talk:I would be too tired to do these kind of stuff, but...
+:ruv:disgusted:...I have to do what I'm meant to do.
+:ruv:disgusted:I'd say break a leg but I might end up breaking yours literally and I'm going to make this as painful as possible for you...
+:ruv:disgusted:...and your little girlfriend.
+:bf:uhh:!!!

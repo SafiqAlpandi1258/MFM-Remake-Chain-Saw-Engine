@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sarv.png">
+<SubTexture name="sarv Mad0000" x="0" y="0" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv DarkPout0000" x="414" y="0" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv DarkUnamus0000" x="0" y="414" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv Smile0000" x="414" y="414" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv Pout0000" x="0" y="828" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv Talk0000" x="414" y="828" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="sarv Luci0000" x="0" y="1242" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+</TextureAtlas>
